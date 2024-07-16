@@ -1,3 +1,18 @@
+
+
+
+# run UltraPixel T2I with webui
+
+```
+CUDA_VISIBLE_DEVICES=0 python web.py
+```
+
+
+
+-----orginal readme-----
+
+# UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks
+
 # UltraPixel
 
 This is the implementation for **UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**\
